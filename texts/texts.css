@@ -1,0 +1,89 @@
+/* Text */
+.text-decoration-none{
+	text-decoration: none;	
+}
+
+.text-center{
+	text-align: center;	
+}
+
+.text-14{
+	font-size: 14px;
+}
+
+.text-16{
+	font-size: 1rem;
+}
+
+.text-18{
+	font-size: 18px;
+}
+
+.text-20{
+	font-size: 20px;
+}
+
+.text-22{
+	font-size: 22px;
+}
+
+.text-24{
+	font-size: 1.5rem;
+}
+
+.text-42{
+	font-size: 42px;
+}
+
+
+.font-weight-100{
+	font-weight: 100;	
+}
+
+.font-weight-200{
+	font-weight: 200;	
+}
+
+
+.font-weight-300{
+	font-weight: 300;	
+}
+
+.font-weight-400{
+	font-weight: 400;	
+}
+
+.font-weight-500{
+	font-weight: 500;	
+}
+
+.font-weight-600{
+	font-weight: 500;	
+}
+
+.font-weight-700{
+	font-weight: 700;	
+}
+
+.font-weight-800{
+	font-weight: 700;	
+}
+
+.font-weight-900{
+	font-weight: 900;	
+}
+
+@media screen and (max-width: 768px){
+
+	.text-md-center{
+		text-align: center;	
+	}
+
+}
+
+@media screen and (max-width: 576px){
+
+	.text-sm-center{
+		text-align: center;	
+	}
+}

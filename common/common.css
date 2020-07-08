@@ -1,0 +1,23 @@
+*{
+	padding: 0;	
+	margin: 0;	
+	box-sizing: border-box;
+	outline: 0;
+}
+
+img{
+	max-width: 100%;
+	height: auto;	
+}
+
+.h-100{
+	height: 100vh;
+}
+
+.overflow-hidden{
+	overflow: hidden;
+}
+
+.circle{
+	border-radius: 100%;
+}
